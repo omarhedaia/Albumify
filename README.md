@@ -49,4 +49,5 @@ An app for users to explore, search, view and share their photos with ease and m
 
 ## Demo
 
-https://streamable.com/3a1stm
+https://github.com/omarhedaia/Albumify/assets/37537023/3475130b-b53b-437c-94d6-98fc4e62d073
+
