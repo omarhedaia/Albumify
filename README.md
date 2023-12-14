@@ -49,4 +49,4 @@ An app for users to explore, search, view and share their photos with ease and m
 
 ## Demo
 
-<video src='https://streamable.com/3a1stm' width=180/>
+https://streamable.com/3a1stm
