@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Albumify</string>
+    <string name="check_internet">Please check if your device is connected to the internet</string>
+    <string name="no_internet_image_desc">no internet image</string>
+    <string name="try_again">Try Again</string>
+    <string name="my_albums">My Albums</string>
+    <string name="profile">Profile</string>
+    <string name="image_view">image view</string>
+    <string name="search_icon_desc">Search Icon</string>
+    <string name="search_in_images">Search in images...</string>
+    <string name="image">Image</string>
+    <string name="share_to">Share to :</string>
+    <string name="share_icon">share_icon</string>
+    <string name="share_icon_title">Share</string>
+    <string name="photo_desc">photo</string>
+</resources>

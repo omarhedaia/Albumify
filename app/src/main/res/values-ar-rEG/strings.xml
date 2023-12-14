@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Albumify</string>
+    <string name="check_internet">الرجاء التأكد من اتصال جهازك بالانترنت</string>
+    <string name="no_internet_image_desc">صورة عدم وجود اتصال بالشبكه</string>
+    <string name="try_again">حاول مره اخرى</string>
+    <string name="my_albums">البوماتي</string>
+    <string name="profile">حسابي</string>
+    <string name="image_view">عرض الصورة</string>
+    <string name="search_icon_desc">ايقونة البحث</string>
+    <string name="search_in_images">ابحث في الصور...</string>
+    <string name="image">صورة</string>
+    <string name="share_to">شارك الصوره :</string>
+    <string name="share_icon">اسقونة المشاركه</string>
+    <string name="share_icon_title">شارك</string>
+    <string name="photo_desc">صوره</string>
+</resources>
